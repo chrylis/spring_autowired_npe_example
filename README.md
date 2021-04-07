@@ -1,7 +1,7 @@
 spring_autowired_npe_example
 ============================
 
-Contribution to the tag working-inject-bean
+Contribution (github contribute  https://www.dataschool.io/how-to-contribute-on-github/) to the tag working-inject-bean
 
 Then mvnw spring-boot:run (mvn spring-boot:run)
 
