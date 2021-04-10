@@ -6,4 +6,5 @@ orbs:
 workflows:
   maven_test:
     jobs:
+      - cd spring-autowired-npe/
       - maven/test
