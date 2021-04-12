@@ -7,6 +7,8 @@ workflows:
   maven_test:
     jobs:
       #- cd spring-autowired-npe/ && maven/test
-      - maven/test
+      - maven/test :
+          #https://stackoverflow.com/questions/65602920/circleci-maven-build-fails-missing-pom-xml
+          app_src_directory: spring-autowired-npe
       
        
