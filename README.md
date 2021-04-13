@@ -7,4 +7,4 @@ Then mvnw spring-boot:run (mvn spring-boot:run)
 
 Test at http://localhost:8080/mileage/2
 
-Confusion between upstream and origin : use COMPLET REFS in git commands ( upstream, origin )
+Confusion between upstream and origin : use COMPLETE REFS in git commands ( upstream, origin )
